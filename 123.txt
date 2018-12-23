@@ -1,8 +1,3 @@
 step1: git commit
 step2: git commit again
 step3: created branch "newImage" and git commit
-<<<<<<< HEAD
-step5: changes performed under newImage branch
-=======
-step4: this is changes did under bugFix branch
->>>>>>> bugFix
