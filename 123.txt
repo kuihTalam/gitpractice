@@ -2,3 +2,4 @@ step1: git commit
 step2: git commit again
 step3: created branch "newImage" and git commit
 step4: rebase
+step5: cherry pick 2 @ 123.txt
