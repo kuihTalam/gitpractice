@@ -1,4 +1,10 @@
 bugfix 1
 bugfix 2
 
+<<<<<<< HEAD
 cherry pick at bugFix 1
+=======
+cherry pick at bugFix 1
+cherry pick at bugFix 2
+cherry pick at bugFix 3
+>>>>>>> 584f341... Added cherry pick bugFix 3
